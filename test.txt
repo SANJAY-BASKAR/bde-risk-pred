@@ -1,0 +1,111 @@
+Sample Data for Inputs (You can adjust based on actual model features):
+Age: 55
+
+HbA1c Level: 6.3
+
+BMI: 27.5
+
+Blood glucose level: 105
+
+Composite risk: 0.35
+
+Ever married: Yes
+
+Hypertension: No
+
+Heart disease: No
+
+Work type: Private
+
+Residence: Urban
+
+Smoking status: Never smoked
+
+Gender: Male
+
+
+
+Patient Information
+Age
+
+55
+
+
+HbA1c Level
+
+6.30
+
+
+Blood Glucose Level
+
+105
+
+
+BMI
+
+27.50
+
+
+Factor
+
+Composite Risk Score
+
+0.35
+
+
+Residence Type
+
+
+Rural
+
+
+Urban
+
+Gender
+
+
+Male
+
+
+Female
+
+
+Other
+
+Ever Married?
+
+
+Yes
+
+
+No
+
+Hypertension?
+
+
+Yes
+
+
+No
+
+Heart Disease?
+
+
+Yes
+
+
+No
+
+Smoking Status
+
+never smoked
+Work Type
+
+Private
+Age Group
+
+Middle
+BMI Group
+
+Overweight
+
