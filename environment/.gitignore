@@ -53,3 +53,16 @@ logs/
 .env.development.local
 .env.test.local
 .env.production.local
+
+# Add your .gitignore file first
+echo "environment/" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo "*.pkl" >> .gitignore
+
+# Add only the files you want
+git add .gitignore
+git add *.py  # or specific files
+
+# Commit again
+git commit -m "Initial commit with proper .gitignore"
